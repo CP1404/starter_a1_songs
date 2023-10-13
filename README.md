@@ -1,4 +1,4 @@
-# CP1404 Assignment 1 - Songs To Learn
+# CP1404 Assignment 1 - Song List 1.0
 
 Assignment 1 for CP1404/CP5632, IT@JCU
 
